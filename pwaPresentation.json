@@ -1,0 +1,28 @@
+{
+	"name": "PWA Presentation",
+	"short_name": "PWA",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#fff",
+	"theme_color": "#3f51b5",
+	"description": "A presentation about Progressive Web Apps",
+	"icons": [
+		{
+			"src": "icon-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "icon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"screenshots": [
+		{
+			"src": "icon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
